@@ -1,10 +1,10 @@
 android_device_lge_vu2kt
 ========================
 
-CyanogenMod10 device tree for LG-F200K (LG Optimus Vu2) - Jellybean Branch
+CyanogenMod12 device tree for LG-F200K (LG Optimus Vu2) - cm-12.0 Branch
 
 Build requirements:
-* device/lge/msm8960-common, branch jellybean
+* device/lge/msm8960-common, branch cm-12.0
 
 Working:
 * RIL
